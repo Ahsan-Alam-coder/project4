@@ -68,7 +68,7 @@
 
 @media only screen and (max-width: 400px) {
     .navbar{
-        background:green;
+        background-color:green !important;
         display: flex;
         flex-direction: column;
     }
